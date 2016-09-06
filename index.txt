@@ -1,4 +1,8 @@
 blablabla
 blablabla2
 addition
+<<<<<<< HEAD
 енуекнкуен
+=======
+addition2
+>>>>>>> d34ac42af43eed0e74c0a9c8e8f24f33093cf948
